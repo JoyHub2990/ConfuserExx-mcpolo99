@@ -5,7 +5,8 @@
 [![CodeQL][img_codeql]][codeql]
 [![MIT License][img_license]][license]
 
-An actively maintained .NET obfuscator. Protects assemblies from .NET Framework 2.0 through .NET 10+.
+An semi-actively maintained .NET obfuscator. Protects assemblies from .NET Framework 2.0 through .NET 10+.
+Currently testing some minor features and fixes
 
 The original [mkaring/ConfuserEx][mkaring] has been dormant since 2022. This fork ships bug fixes, modern framework support, and an automated release pipeline.
 
